@@ -5,9 +5,8 @@ open access
 policy](https://www.ukri.org/news/ukri-announces-new-open-access-policy/),
 and from April 2022 will require authors to licence their accepted
 manuscripts appropriately so that they can be freely shared.  Wellcome
-have already required a similar condition for work published by their
-grant holders.  This is part of the 'Coalition S' package of work,
-termed the *Rights Retention Strategy* (RRS).  I have written a
+have already required a similar condition for their grantees, termed
+the *Rights Retention Strategy* (RRS).  I have written a
 [primer](https://bit.ly/rrs-primer), on what this means for
 researchers.  In essence, authors declare that any author-accepted
 manuscript (AAM) resulting from their manuscript submitted to a
@@ -18,12 +17,15 @@ of 'gold OA' where an article processing charge must be paid.  UKRI
 see both green and gold OA as equally valid approaches to sharing
 work.
 
-As a researcher, I think the rights retention strategy is a valuable
-tool for us to retain rights on our work, rather than handing over all
-our rights at the manuscript acceptance stage.  Several publishers
-have already responded negatively to this proposal.  However, despite
-their objections, some of these publishers are now [publishing
+As a researcher, I think the RRS is a valuable tool for us to retain
+rights on our work, rather than handing over all our rights at the
+manuscript acceptance stage.  Several publishers have already
+responded negatively to this proposal.  However, despite their
+objections, some of these publishers are now [publishing
 manuscripts](Ross?) that have adopted the RRS language.
+
+*Ross: should I just point to Dalmeet's piece to show you have found
+numerous examples?*
 
 So, now that the UKRI has joined Wellcome and other funders in
 mandating rights retention, what next?  How might publishers and
@@ -98,8 +100,8 @@ valuable resources.
 The preprint server arxiv just turned 30 years old, and is seen as a
 valuable service by many in the mathematical and physical sciences.
 It has inspired similar preprints in many other disciplines.  Arxiv is
-supported by grants and institutions (two of the four platinum members
-are UK-based).  As well as hosting preprints, Arxiv is now used to
+[supported by grants and institutions](https://arxiv.org/about/ourmembers)(two of the four platinum members
+are UK universities).  As well as hosting preprints, Arxiv is now used to
 host diamond OA 'overlay' journals, which I believe provide a much
 more sustainable way forward for publishing -- free to read and
 publish.  Several other approaches worth highlighting briefly include:
@@ -113,11 +115,13 @@ publish.  Several other approaches worth highlighting briefly include:
    host a journal.
 
 Seeing open access as just 'green' or 'gold' is a false dichotomy as
-all of these examples demonstrate.  By working internationally to
-provide reliable scholarly communications infrastructure, we should be
-able to embrace forward-looking publishers and initiatives that help
+these examples demonstrate.  By working internationally to provide
+reliable scholarly communications infrastructure, we should be able to
+embrace forward-looking publishers and initiatives that help
 revolutionize publishing, rather than leaving us beholden at the hands
-of legacy publishers providing a limited service.
+of legacy publishers providing a limited service.  The rights
+retention strategy will hopefully play a small role in this revolution
+by allowing researchers to retain rights over our work.
 
 
 [Stephen J Eglen](https://orcid.org/0000-0001-8607-8025)
