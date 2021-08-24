@@ -118,3 +118,7 @@ provide reliable scholarly communications infrastructure, we should be
 able to embrace forward-looking publishers and initiatives that help
 revolutionize publishing, rather than leaving us beholden at the hands
 of legacy publishers providing a limited service.
+
+
+[Stephen J Eglen](https://orcid.org/0000-0001-8607-8025)
+
