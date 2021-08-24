@@ -1,5 +1,3 @@
-Ten years ago, open access
-
 In August 2021, the UKRI finally announced their long-awaited [revised
 open access
 policy](https://www.ukri.org/news/ukri-announces-new-open-access-policy/),
@@ -14,7 +12,9 @@ manuscript (AAM) resulting from their manuscript submitted to a
 journal for publicatio can be made freely available without embargo.
 This provides a pragmatic, zero-cost solution to open access, commonly
 termed 'green OA', as an alernative to the publisher-preferred model
-of 'gold OA' where an article processing charge must be paid.
+of 'gold OA' where an article processing charge must be paid.  UKRI
+see both green and gold OA as equally valid approaches to sharing
+work.
 
 As a researcher, I think the rights retention strategy is a valuable
 tool for us to retain rights on our work, rather than handing over all
@@ -23,24 +23,94 @@ have already responded negatively to this proposal.  However, despite
 their objections, some of these publishers are now [publishing
 manuscripts](Ross?) that have adopted the RRS language.
 
+So, now that the UKRI has joined Wellcome and other fundings in
+supporting rights retention, what next?   How might publishers
+respond?
 
-I think what I'd like to say, post UKRI announcement is to clarify that
-although UKRI have not called the green route 'RRS' it is, by my view,
-effectively the RRS and that there is now a growing body of papers that
-are using it -- also hihglighting that although publishers in February
-were against the RRS, those publishers are now accepting papers by this
-route.
+### Desk rejection of manuscripts
 
-I'd also like to raise the question of what is the next move by the
-publishers in the 'epic game of chess' we are playing out... will
-publishers desk reject (doubt it)?  Will they hope only a small number
-of papers go green (possible)?  Will they now flip all hybrid journals
-to gold journals to capture the APCs? (possible?)
+Many people are rightly concerned about enforcement of the RRS.  What
+if a journal reviews and accepts my paper, but then asks me to sign a
+copyright transfer form that e.g. requires me not to share my
+author-accepted manuscript?  Most authors will simply sign the form to
+get their paper into press as soon as possible, rather than enter into
+protracted copyright discussions that may ultimately cause their paper
+to be rejected.
 
-And should we, as researchers care what their next move is?  Or should
-we proceed supporting more ethical initiatives like diamond OA /
-subscribe to open?
+In response, I would suggest that journal editors are under no
+compulsion to accept papers for review that use RRS.  If the editor
+notes that the journal's copyright requirements will conflict with the
+RRS, then the editor should do the only honourable thing and
+desk-reject the paper rather than risk a conflict at the acceptance
+stage.  I would however hope that enlightened journal editors might
+have pause to think whether their journal truly requires restrictive
+copyright transfer arrangements, rather than simply a licence to
+publish the author's work.
 
+### How many papers will be green OA vs gold OA?
+
+The UKRI policy is ambitious in that it allows both green and gold OA
+solutions for compliance.  Publishers may be hoping that most authors
+will still prefer to take the gold route to open access, so that the
+'version of record' (VOR) can be freely shared in most cases, rather
+than the AAM.  However, the route to gold is looking increasinly
+expensive, with few mechanisms to prevent their costs continuing to
+spiral upwards.  Even with 'publish and read' deals in place, and
+pledges of UKRI funds to support open access, funds are finite, and so
+an author cannot assume that funds will always be available.  By
+contrast, green OA is always available.
+
+### Will hybrid journals disappear?
+
+Judging by publisher's reactions, the biggest threat that RRS poses is
+that it undermines 'hybrid' journals that are subscription-based and
+charge APCs for papers to be made open access.  If used at scale to
+support green OA, hybrid journals will lose APC income.  Libraries may
+begin to unsubscribe from these journals if most of the content is
+freely available, putting these journals at risk.  These journals may
+therefore decide to return a pure subscription model (desk rejecting
+papers that wish to use RRS), or flip to a gold APC model.
+
+This does present risks, e.g. if most journals require APCs to publish
+in, researchers and institutions with limited funds will be excluded
+from publishing in those venues.  Waivers are sometimes available, but
+not a reliable or widely used mechanism [cite nature letter].  If we
+wish to make publishing more equitable, we need a more reliable
+solution than APC waivers (see below).  However, on balance, if RRS
+means that hybrid journals will disappear, I think this is a good
+solution to the current 'double dipping' problem where we are paying
+both to read and publish in the same journal.
+
+### Sustainable alternatives to publishing?
+
+Irrespective of what legacy publishers may choose to do to respond to
+this latest move, we should be mindful that there are many alternative
+routes to sharing the results of our research, beyond sharing our
+manuscript.  As research becomes increasingly digital, we are able to
+share much more of our data and research artefacts (code, protocols,
+results) generated throughout our research lifecycle.  If we view our
+manuscripts as just one part of our scholarly output, we should be
+looking towards infrastructure solutions that allow us to share these
+valuable resources.
+
+The preprint server arxiv just turned 30 years old, and is seen as a
+valuable service by many in the mathematical and physical sciences.
+It has inspired similar preprints in many other disciplines.  Arxiv is
+currently funded by a mix of grants and contributions from
+universities that heavily use the service.  In the UK, these
+contributions are currently top-sliced from Jisc.  Arxiv is now used
+to host a range of diamond OA 'overlay' journals, which I believe
+provide a much more sustainable way forward for publishing.  
+
+An alternative model worth exploring is 'subscribe to open'...
+openlib humanties.  Some journals even survive by publishing entirely
+on the Microsoft-owned service, github.com
+
+By working internationally to provide reliable scholarly
+communications infrastructure, we should be able to embrace
+forward-looking publishers and initiatives that help revolutionize
+publishing, rather than leaving us beholden at the hands of legacy
+publishers.
 
 
 
