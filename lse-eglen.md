@@ -1,3 +1,5 @@
+## How will the Rights Retention Strategy affect scholarly publishing?
+
 In August 2021, the UKRI finally announced their long-awaited [revised
 open access
 policy](https://www.ukri.org/news/ukri-announces-new-open-access-policy/),
