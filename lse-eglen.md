@@ -23,29 +23,28 @@ have already responded negatively to this proposal.  However, despite
 their objections, some of these publishers are now [publishing
 manuscripts](Ross?) that have adopted the RRS language.
 
-So, now that the UKRI has joined Wellcome and other fundings in
-supporting rights retention, what next?   How might publishers
-respond?
+So, now that the UKRI has joined Wellcome and other funders in
+mandating rights retention, what next?  How might publishers and
+authors respond?
 
 ### Desk rejection of manuscripts
 
 Many people are rightly concerned about enforcement of the RRS.  What
 if a journal reviews and accepts my paper, but then asks me to sign a
 copyright transfer form that e.g. requires me not to share my
-author-accepted manuscript?  Most authors will simply sign the form to
-get their paper into press as soon as possible, rather than enter into
-protracted copyright discussions that may ultimately cause their paper
-to be rejected.
+author-accepted manuscript?  To date, most authors simply sign the
+form to get their paper into press as soon as possible.  Authors,
+rightly will want to avoid protracted copyright discussions that may
+ultimately cause their paper to be rejected.
 
 In response, I would suggest that journal editors are under no
 compulsion to accept papers for review that use RRS.  If the editor
 notes that the journal's copyright requirements will conflict with the
-RRS, then the editor should do the only honourable thing and
-desk-reject the paper rather than risk a conflict at the acceptance
-stage.  I would however hope that enlightened journal editors might
-have pause to think whether their journal truly requires restrictive
-copyright transfer arrangements, rather than simply a licence to
-publish the author's work.
+RRS, then the editor should simply desk-reject the paper rather than
+risk a conflict at the acceptance stage.  I would however hope that
+enlightened journal editors might have pause to think whether their
+journal truly requires restrictive copyright transfer arrangements,
+rather than simply a licence to publish the author's work.
 
 ### How many papers will be green OA vs gold OA?
 
@@ -74,9 +73,10 @@ papers that wish to use RRS), or flip to a gold APC model.
 This does present risks, e.g. if most journals require APCs to publish
 in, researchers and institutions with limited funds will be excluded
 from publishing in those venues.  Waivers are sometimes available, but
-not a reliable or widely used mechanism [cite nature letter].  If we
+are [not reliable or widely
+available](https://www.nature.com/articles/d41586-021-02173-7).  If we
 wish to make publishing more equitable, we need a more reliable
-solution than APC waivers (see below).  However, on balance, if RRS
+solution than APC waivers (see next).  However, on balance, if RRS
 means that hybrid journals will disappear, I think this is a good
 solution to the current 'double dipping' problem where we are paying
 both to read and publish in the same journal.
@@ -96,21 +96,23 @@ valuable resources.
 The preprint server arxiv just turned 30 years old, and is seen as a
 valuable service by many in the mathematical and physical sciences.
 It has inspired similar preprints in many other disciplines.  Arxiv is
-currently funded by a mix of grants and contributions from
-universities that heavily use the service.  In the UK, these
-contributions are currently top-sliced from Jisc.  Arxiv is now used
-to host a range of diamond OA 'overlay' journals, which I believe
-provide a much more sustainable way forward for publishing.  
+supported by grants and institutions (two of the four platinum members
+are UK-based).  As well as hosting preprints, Arxiv is now used to
+host diamond OA 'overlay' journals, which I believe provide a much
+more sustainable way forward for publishing -- free to read and
+publish.  Several other approaches worth highlighting briefly include:
 
-An alternative model worth exploring is 'subscribe to open'...
-openlib humanties.  Some journals even survive by publishing entirely
-on the Microsoft-owned service, github.com
+1. [Subscribe to Open](https://subscribetoopencommunity.org/) using
+   library funding to convert subscription journals to open access.
+2. [The Open Library Of Humanities](https://www.openlibhums.org/) uses
+   library support to provide open access journals.
+3. [The Journal of Open Source Software](https://joss.theoj.org/)
+   relies entirely on free cloud infrastructure (github) to manage and
+   host a journal.
 
-By working internationally to provide reliable scholarly
-communications infrastructure, we should be able to embrace
-forward-looking publishers and initiatives that help revolutionize
-publishing, rather than leaving us beholden at the hands of legacy
-publishers.
-
-
-
+Seeing open access as just 'green' or 'gold' is a false dichotomy as
+all of these examples demonstrate.  By working internationally to
+provide reliable scholarly communications infrastructure, we should be
+able to embrace forward-looking publishers and initiatives that help
+revolutionize publishing, rather than leaving us beholden at the hands
+of legacy publishers providing a limited service.
