@@ -10,11 +10,11 @@ the *Rights Retention Strategy* (RRS).  I have written a
 [primer](https://bit.ly/rrs-primer), on what this means for
 researchers.  In essence, authors declare that any author-accepted
 manuscript (AAM) resulting from their manuscript submitted to a
-journal for publicatio can be made freely available without embargo.
-This provides a pragmatic, zero-cost solution to open access, commonly
+journal for publication can be made freely available without embargo.
+This provides a pragmatic solution, free of author fees, commonly
 termed 'green OA', as an alernative to the publisher-preferred model
-of 'gold OA' where an article processing charge must be paid.  UKRI
-see both green and gold OA as equally valid approaches to sharing
+of 'gold OA' where an article processing charge is often required.
+UKRI see both green and gold OA as equally valid approaches to sharing
 work.
 
 As a researcher, I think the RRS is a valuable tool for us to retain
@@ -114,14 +114,13 @@ publish.  Several other approaches worth highlighting briefly include:
    relies entirely on free cloud infrastructure (github) to manage and
    host a journal.
 
-Seeing open access as just 'green' or 'gold' is a false dichotomy as
-these examples demonstrate.  By working internationally to provide
-reliable scholarly communications infrastructure, we should be able to
-embrace forward-looking publishers and initiatives that help
-revolutionize publishing, rather than leaving us beholden at the hands
-of legacy publishers providing a limited service.  The rights
-retention strategy will hopefully play a small role in this revolution
-by allowing researchers to retain rights over our work.
+By working internationally to provide reliable scholarly
+communications infrastructure, we should be able to embrace
+forward-looking publishers and initiatives that help revolutionize
+publishing, rather than leaving us beholden at the hands of legacy
+publishers providing a limited service.  The rights retention strategy
+will hopefully play a small role in this revolution by allowing
+researchers to retain rights over our work.
 
 
 [Stephen J Eglen](https://orcid.org/0000-0001-8607-8025)
