@@ -44,11 +44,15 @@ ultimately cause their paper to be rejected.
 In response, I would suggest that journal editors are under no
 compulsion to accept papers for review that use RRS.  If the editor
 notes that the journal's copyright requirements will conflict with the
-RRS, then the editor should simply desk-reject the paper rather than
-risk a conflict at the acceptance stage.  I would however hope that
-enlightened journal editors might have pause to think whether their
-journal truly requires restrictive copyright transfer arrangements,
-rather than simply a licence to publish the author's work.
+RRS, in the first instance I would suggest that journal editors might
+reconsider their journal's copyright requirements.  All that is needed
+is a licence to publish from the authors, rather than any transfer of
+copyright.  Failing that, if the journal intends to ignore the RRS,
+and require copyright transfer at acceptance that could negate the
+RRS, then instead the editor should desk reject the submission.  It
+will then be up to researchers to decide for themselves in whose
+interests the journal is acting.
+
 
 ### How many papers will be green OA vs gold OA?
 
