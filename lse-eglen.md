@@ -25,8 +25,6 @@ objections, some of these publishers are now [publishing
 manuscripts](https://github.com/rossmounce/rrs-language-including-outputs)
 that have adopted the RRS language.
 
-
-
 So, now that the UKRI has joined other funders such as Wellcome in
 supporting rights retention routes, what next?  How might publishers
 and authors respond?
@@ -45,8 +43,8 @@ In response, I would suggest that journal editors are under no
 compulsion to accept papers for review that use RRS.  If the editor
 notes that the journal's copyright requirements will conflict with the
 RRS, in the first instance I would suggest that journal editors might
-reconsider their journal's copyright requirements.  All that is needed
-is a licence to publish from the authors, rather than any transfer of
+reconsider the journal's requirements.  All that is needed is a
+licence to publish from the authors, rather than any transfer of
 copyright.  Failing that, if the journal intends to ignore the RRS,
 and require copyright transfer at acceptance that could negate the
 RRS, then instead the editor should desk reject the submission.  It
@@ -106,12 +104,14 @@ valuable resources.
 
 The preprint server arXiv just turned 30 years old, and is seen as a
 valuable service by many in the mathematical and physical sciences.
-It has inspired similar preprints in many other disciplines.  Arxiv is
-[supported by grants and institutions](https://arxiv.org/about/ourmembers)(two of the four platinum members
-are UK universities).  As well as hosting preprints, Arxiv is now used to
-host diamond OA 'overlay' journals, which I believe provide a much
-more sustainable way forward for publishing -- free to read and
-publish.  Several other approaches worth highlighting briefly include:
+It has inspired similar preprints in many other disciplines.  arXiv is
+[supported by grants and
+institutions](https://arxiv.org/about/ourmembers)(two of the four
+platinum members are UK universities).  As well as hosting preprints,
+arXiv is now used to host diamond OA 'overlay' journals, which I
+believe provide a much more sustainable way forward for publishing --
+free to read and publish.  Several other approaches worth highlighting
+briefly include:
 
 1. [Subscribe to Open](https://subscribetoopencommunity.org/) using
    library funding to convert subscription journals to open access.
