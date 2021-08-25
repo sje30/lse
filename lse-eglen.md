@@ -27,9 +27,9 @@ manuscripts](Ross?) that have adopted the RRS language.
 *Ross: should I just point to Dalmeet's piece to show you have found
 numerous examples?*
 
-So, now that the UKRI has joined Wellcome and other funders in
-mandating rights retention, what next?  How might publishers and
-authors respond?
+So, now that the UKRI has joined other funders such as Wellcome in
+supporting rights retention routes, what next?  How might publishers
+and authors respond?
 
 ### Desk rejection of manuscripts
 
