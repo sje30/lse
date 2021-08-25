@@ -3,11 +3,11 @@
 In August 2021, the UKRI finally announced their long-awaited [revised
 open access
 policy](https://www.ukri.org/news/ukri-announces-new-open-access-policy/),
-and from April 2022 will require authors to licence their accepted
-manuscripts appropriately so that they can be freely shared.  Wellcome
-have already required a similar condition for their grantees, termed
-the *Rights Retention Strategy* (RRS).  I have written a
-[primer](https://bit.ly/rrs-primer), on what this means for
+and from April 2022 will require authors to make their research
+articles immediately open access, either via gold or green OA.  The
+green route to open access can be achieved in subscription journals using
+something termed the *Rights Retention Strategy* (RRS).  I have
+written a [primer](https://bit.ly/rrs-primer), on what this means for
 researchers.  In essence, authors declare that any author-accepted
 manuscript (AAM) resulting from their manuscript submitted to a
 journal for publication can be made freely available without embargo.
