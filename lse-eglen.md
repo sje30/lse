@@ -65,7 +65,8 @@ expensive, with few mechanisms to prevent their costs continuing to
 spiral upwards.  Even with 'publish and read' deals in place, and
 pledges of UKRI funds to support open access, funds are finite, and so
 an author cannot assume that funds will always be available.  By
-contrast, green OA is always available.
+contrast, no author-facing fees are required for green OA, making it a
+sensible default route to compliance in hybrid journals.
 
 ### Will hybrid journals disappear?
 
