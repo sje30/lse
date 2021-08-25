@@ -12,7 +12,7 @@ researchers.  In essence, authors declare that any author-accepted
 manuscript (AAM) resulting from their manuscript submitted to a
 journal for publication can be made freely available without embargo.
 This provides a pragmatic solution, free of author fees, commonly
-termed 'green OA', as an alernative to the publisher-preferred model
+termed 'green OA', as an alternative to the publisher-preferred model
 of 'gold OA' where an article processing charge is often required.
 UKRI see both green and gold OA as equally valid approaches to sharing
 work.
@@ -60,9 +60,9 @@ The UKRI policy is ambitious in that it allows both green and gold OA
 solutions for compliance.  Publishers may be hoping that most authors
 will still prefer to take the gold route to open access, so that the
 'version of record' (VOR) can be freely shared in most cases, rather
-than the AAM.  However, the route to gold is looking increasinly
+than the AAM.  However, the route to gold is looking increasingly
 expensive, with few mechanisms to prevent their costs continuing to
-spiral upwards.  Even with 'publish and read' deals in place, and
+increase.  Even with 'publish and read' deals in place, and
 pledges of UKRI funds to support open access, funds are finite, and so
 an author cannot assume that funds will always be available.  By
 contrast, no author-facing fees are required for green OA, making it a
@@ -104,7 +104,7 @@ manuscripts as just one part of our scholarly output, we should be
 looking towards infrastructure solutions that allow us to share these
 valuable resources.
 
-The preprint server arxiv just turned 30 years old, and is seen as a
+The preprint server arXiv just turned 30 years old, and is seen as a
 valuable service by many in the mathematical and physical sciences.
 It has inspired similar preprints in many other disciplines.  Arxiv is
 [supported by grants and institutions](https://arxiv.org/about/ourmembers)(two of the four platinum members
