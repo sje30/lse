@@ -22,10 +22,10 @@ rights on our work, rather than handing over all our rights at the
 manuscript acceptance stage.  Several publishers have already
 responded negatively to this proposal.  However, despite their
 objections, some of these publishers are now [publishing
-manuscripts](Ross?) that have adopted the RRS language.
+manuscripts](https://github.com/rossmounce/rrs-language-including-outputs)
+that have adopted the RRS language.
 
-*Ross: should I just point to Dalmeet's piece to show you have found
-numerous examples?*
+
 
 So, now that the UKRI has joined other funders such as Wellcome in
 supporting rights retention routes, what next?  How might publishers
