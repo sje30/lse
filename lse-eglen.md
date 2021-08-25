@@ -77,7 +77,9 @@ support green OA, hybrid journals will lose APC income.  Libraries may
 begin to unsubscribe from these journals if most of the content is
 freely available, putting these journals at risk.  These journals may
 therefore decide to return a pure subscription model (desk rejecting
-papers that wish to use RRS), or flip to a gold APC model.
+papers that wish to use RRS), or flip to a gold APC model.  A small
+number of journals are now exploring the 'subscribe to open' model,
+see below, in tandem with support from libraries.
 
 This does present risks, e.g. if most journals require APCs to publish
 in, researchers and institutions with limited funds will be excluded
